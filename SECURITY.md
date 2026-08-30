@@ -6,7 +6,7 @@ The AMD Ryzen AI Max+ 395 Privacy Agent runs AgentBridge as a self-hosted applic
 
 **Do not open a public issue for security problems.** Report them privately:
 
-1. Go to <https://github.com/Graphene-Lab/AMD-Ryzen-AI-Max+-395-Privacy-Agent/security/advisories/new>
+1. Go to <https://github.com/Graphene-Lab/AMD-Ryzen-AI-Max-395-Privacy-Agent/security/advisories/new>
 2. Describe the vulnerability, the affected version and the steps to reproduce.
 
 Reports are acknowledged within a few days and fixed in the next release.

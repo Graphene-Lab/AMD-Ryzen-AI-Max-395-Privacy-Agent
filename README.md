@@ -17,11 +17,11 @@ license: Andrea Bruno License 1.4
 ![Self-contained](https://img.shields.io/badge/Self--contained-No%20.NET%20needed-green)
 ![TTS](https://img.shields.io/badge/Speech-Kokoro%20TTS%20included-brightgreen)
 ![Latest release](https://img.shields.io/github/v/release/Graphene-Lab/AgentBridge)
-![Last commit](https://img.shields.io/github/last-commit/Graphene-Lab/AMD-Ryzen-AI-Max+-395-Privacy-Agent)
+![Last commit](https://img.shields.io/github/last-commit/Graphene-Lab/AMD-Ryzen-AI-Max-395-Privacy-Agent)
 
-![GitHub stars](https://img.shields.io/github/stars/Graphene-Lab/AMD-Ryzen-AI-Max+-395-Privacy-Agent?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Graphene-Lab/AMD-Ryzen-AI-Max+-395-Privacy-Agent?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Graphene-Lab/AMD-Ryzen-AI-Max+-395-Privacy-Agent?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Graphene-Lab/AMD-Ryzen-AI-Max-395-Privacy-Agent?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Graphene-Lab/AMD-Ryzen-AI-Max-395-Privacy-Agent?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Graphene-Lab/AMD-Ryzen-AI-Max-395-Privacy-Agent?style=social)
 
 > **The AMD Ryzen AI Max+ 395 Privacy Agent turns a Windows or Linux machine powered by the AMD Ryzen AI Max+ 395 processor into a private, self-hosted AI office assistant.** Built on [AgentBridge](https://github.com/Graphene-Lab/AgentBridge), it reads your documents, writes office files, manages email, researches the web, speaks with a neural voice, answers the phone, chats on Telegram, schedules tasks and even produces podcasts — while your data stays on your machine and never reaches a cloud.
 
